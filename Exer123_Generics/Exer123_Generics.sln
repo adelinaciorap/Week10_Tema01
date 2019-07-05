@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exer123_Generics", "Exer123_Generics\Exer123_Generics.csproj", "{B5A780DC-CD7D-427A-8E9B-2AF8FB246CD7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex456_Matrix", "..\Ex456_Matrix\Ex456_Matrix.csproj", "{8CC4577F-EFF6-4EEC-B2EA-3B4EA8C3C0C5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B5A780DC-CD7D-427A-8E9B-2AF8FB246CD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5A780DC-CD7D-427A-8E9B-2AF8FB246CD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5A780DC-CD7D-427A-8E9B-2AF8FB246CD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CC4577F-EFF6-4EEC-B2EA-3B4EA8C3C0C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CC4577F-EFF6-4EEC-B2EA-3B4EA8C3C0C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CC4577F-EFF6-4EEC-B2EA-3B4EA8C3C0C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CC4577F-EFF6-4EEC-B2EA-3B4EA8C3C0C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
